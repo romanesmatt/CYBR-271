@@ -3,7 +3,7 @@ A repository storing all of my assignments from CYBR 271 (Secure Programming) at
 
 ## Assignment One
 
-The first assignment for the course involved a vending machine and scenarios on how to attack it. Threat modelling (STRIDE) and risk assessment (DREAD) techniques were used to determine the vending machine's vulnerabilities and potential attack scenarios. I received high marks from the tutors for my attention to detail in outlining the vulnerabilities and scenarios.
+The first assignment for the course involved a vending machine and how its vulnerabilites can be exploited. Threat modelling (STRIDE) and risk assessment (DREAD) techniques were used to determine the vending machine's vulnerabilities and potential attack scenarios. I received high marks from the tutors for my attention to detail in outlining both the vulnerabilities and scenarios.
 
 ## Assignment Two
 The second assignment for the course was split into two. I received very high marks for my attention to detail in documenting what happened as I executed each attack.
